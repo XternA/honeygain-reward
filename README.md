@@ -11,13 +11,14 @@ Honeygain Pot 🐝🍯
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=32DCQ65QM5FNE)
 
 If you like this project, don't forget to leave a star. ⭐
-</div>
 
-### Containerized docker image for [Honeygain](https://bit.ly/3x6nX1S) lucky pot 🍯
+### Containerized Docker image for [Honeygain](https://bit.ly/3x6nX1S) lucky pot 🍯
 
->**Note:** This built image comes with no warranty of any kind. By using this image you agree the License in addition with Honeygain's T&C.
+>**Note:** This built image comes with no warranty of any kind. By using this image you agree this License Aggrement in addition with Honeygain's T&C.
 
 This is a simple Docker image for installing Honeygain's Lucky Pot auto-claim script as a container.
+
+</div>
 
 ## Pulling Image 🐋
 **64-Bit** architecture and **ARM**:
