@@ -1,19 +1,16 @@
 <h1 align="center">
-  Honeygain Pot 🐝🍯
-
-  [![Static Badge](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/XternA/honeygain-reward)
-  [![Static Badge](https://img.shields.io/badge/License-purple?style=flat&logo=github)](https://github.com/XternA/honeygain-reward?tab=License-1-ov-file)
-  [![Docker Stars](https://img.shields.io/docker/stars/xterna/honeygain-pot?logo=docker&label=Docker%20Stars)](https://hub.docker.com/r/xterna/honeygain-pot)
-  [![GitHub Repo stars](https://img.shields.io/github/stars/XternA/honeygain-reward?style=flat&logo=github&label=Stars&color=orange)](https://github.com/XternA/honeygain-reward)
-  [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=32DCQ65QM5FNE)
+Honeygain Pot 🐝🍯
 </h1>
 
 <div align="center">
-  <b>
 
-    If you like this project, don't forget to leave a star. ⭐
+[![Static Badge](https://img.shields.io/badge/GitHub-blue?style=flat&logo=github)](https://github.com/XternA/honeygain-reward)
+[![Static Badge](https://img.shields.io/badge/License-purple?style=flat&logo=github)](https://github.com/XternA/honeygain-reward?tab=License-1-ov-file)
+[![Docker Stars](https://img.shields.io/docker/stars/xterna/honeygain-pot?logo=docker&label=Docker%20Stars)](https://hub.docker.com/r/xterna/honeygain-pot)
+[![GitHub Repo stars](https://img.shields.io/github/stars/XternA/honeygain-reward?style=flat&logo=github&label=Stars&color=orange)](https://github.com/XternA/honeygain-reward)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=32DCQ65QM5FNE)
 
-</b>
+If you like this project, don't forget to leave a star. ⭐
 </div>
 
 ### Containerized docker image for [Honeygain](https://bit.ly/3x6nX1S) lucky pot 🍯
@@ -21,7 +18,6 @@
 >**Note:** This built image comes with no warranty of any kind. By using this image you agree the License in addition with Honeygain's T&C.
 
 This is a simple Docker image for installing Honeygain's Lucky Pot auto-claim script as a container.
-
 
 ## Pulling Image 🐋
 **64-Bit** architecture and **ARM**:
