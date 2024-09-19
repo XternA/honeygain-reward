@@ -2,15 +2,5 @@
   "name": "honeygain-pot",
   "version": "1.0.11",
   "description": "Auto claim Honeygain pot reward.",
-  "main": "run.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.7.7",
-    "puppeteer": "^23.3.0",
-    "random-useragent": "^0.5.0"
-  },
-  "devDependencies": {}
+  "author": "XternA"
 }
