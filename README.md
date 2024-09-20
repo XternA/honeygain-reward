@@ -22,11 +22,11 @@ This is a simple Docker image for installing Honeygain's Lucky Pot auto-claim sc
 </div>
 
 ## Pulling Image 🐋
-**64-Bit** architecture and **ARM**:
+**64-Bit Platform:** `linux/amd64` `linux/arm64`
 ```sh
 docker pull ghcr.io/xterna/honeygain-pot
 ```
-**ARM (32-Bit)** is supported:
+**32-Bit Platform:** `linux/arm/v7`
 ```sh
 docker pull ghcr.io/xterna/honeygain-pot:arm32v7
 ```
