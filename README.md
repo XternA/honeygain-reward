@@ -42,6 +42,8 @@ CONTAINER ID   NAME            CPU %     MEM USAGE / LIMIT   MEM %     NET I/O  
 33d34f74cd0e   honeygain-pot   0.20%     3.02MiB / 320MiB    0.94%     3.3MB / 206kB   0B / 43.6MB   3
 ```
 
+> This image comes pre-configured with [**Income Generator**](https://github.com/XternA/income-generator). A tool which consolidates and earns passive income from multiple sources.
+
 ## Features 🚀
 - Automatically log in and claim daily lucky pot.
 - Find out the remaining time before the next claim.
