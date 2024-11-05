@@ -74,8 +74,7 @@ Time remaining: 0 hours 0 minutes 0 seconds ⏱️
 Ready to claim again ✅
 ```
 
-![image](https://github.com/user-attachments/assets/cce10790-de72-4ad0-876d-b7d069d477fa)
-
+![image](https://github.com/user-attachments/assets/5dead907-cbb6-42b2-a7cc-31928077159e)
 
 ## Usage 📃
 Define the following environment variable to bootstrap the image.
